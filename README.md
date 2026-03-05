@@ -39,7 +39,7 @@ ux-review-website
 
 ## Live Demo
 
-Demo will be available using GitHub Pages.
+https://m-tal7a.github.io/ux-review-website/
 
 ---
 
